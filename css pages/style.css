@@ -1,0 +1,38 @@
+body{
+    background-color: #E1D7C6;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #C69749;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: right;
+    font-size: 20px;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #3C2A21;
+}
+.logo
+{
+    position: fixed;
+    height: auto;
+    left: 0px;
+    border-radius: 50%;
+    width: 40px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+
